@@ -1,0 +1,23 @@
+{
+  "name": "contact-details-api",
+  "version": "1.0.0",
+  "description": "api for collecting user details,like names and emails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Richieacey/contact-details-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Richieacey/contact-details-api/issues"
+  },
+  "homepage": "https://github.com/Richieacey/contact-details-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
